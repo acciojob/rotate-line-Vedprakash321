@@ -4,11 +4,11 @@ body {
 }
 
 #line {
-	color:black;
+
     position: absolute;
     top: 50%;
     left: 50%;
-    transform-origin: left center;
+    transform-origin:  center;
     background-color: black;
     width: 200px;
     height: 2px;
